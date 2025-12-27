@@ -2,13 +2,13 @@
 
 # Hi There! 👋
 
-### Building IoT + dashboards + real-world systems
+### Building IoT + real-world applications & IoT systems
 
 </div>
 
-- 🔧 Mechanical/Electronic Engineer → Software Builder  
-- 🌧️ IoT + sensors + ESP32/RPi projects  
-- 💳 Payment/kiosk workflows + reliable system integration  
+- 🔧 Mechanical & Electronic Engineer → Software Builder  
+- 🌧️ IoT + Sensors + Algorithm projects  
+- 💳 Payment/Kiosk/Terminals workflows + reliable system & hardware/device integration  
 - 🧩 Admin dashboards (AdminLTE/Bootstrap + Vanilla JS) & backend APIs  
 
 <div align="center">
