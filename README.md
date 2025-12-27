@@ -72,20 +72,20 @@ I build **reliable real-world systems**: IoT devices, smart dashboards, payment/
 
 ---
 
-## 🔥 Stats
+<!-- ## 🔥 Stats
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=ArnabMach0&show_icons=true&rank_icon=github" height="150" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnabMach0&layout=compact" height="150" />
 
-</div>
+</div> -->
 
 <!-- Optional streak card -->
-<!--
+<!-- 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ArnabMach0" height="160" />
-</div>
--->
+</div> -->
+
 
 ---
 
