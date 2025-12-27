@@ -2,7 +2,7 @@
 
 <!-- Optional banner (recommended) -->
 <!-- If you upload a banner to: assets/banner.png, uncomment the next line -->
-<!-- ![](./assets/banner.png) -->
+![](./assets/banner.jpg)
 
 <img src="./assets/malar-alam-technology-logo.png" alt="Malar Alam Technology" width="220" />
 
@@ -33,7 +33,7 @@ I build **reliable real-world systems**: IoT devices, smart dashboards, payment/
 ---
 
 ## 🧠 What I’m focused on
-- 🔧 **Hardware ↔ Software integration** (ESP32/Raspberry Pi, sensors, gateways, field deployment)
+- 🔧 **Hardware ↔ Software integration** (Nvidia Jetson Orin Nano/ Orin NX/ STM32 / ESP32 & Arduino / Raspberry Pi, sensors, gateways, field deployment)
 - 💳 **Payment / kiosk workflows** (terminal integrations, reliable comms, logs, recovery flows)
 - 🧩 **Admin dashboards** (Bootstrap + Vanilla JS / AdminLTE-style, charts, i18n-ready UX)
 - 🌐 **Backend APIs** (Python/Java stacks, clean contracts, production-minded structure)
