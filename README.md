@@ -9,7 +9,7 @@
 - 🔧 Mechanical & Electronic Engineer → Software Builder  
 - 🌧️ IoT + Sensors + Algorithm projects  
 - 💳 Payment/Kiosk/Terminals workflows + reliable system & hardware/device integration  
-- 🧩 Admin dashboards (AdminLTE/Bootstrap + Vanilla JS) & backend APIs  
+- 🧩 IoT & Admin dashboards (Bootstrap + JS) & backend APIs  
 
 <div align="center">
 
