@@ -9,7 +9,7 @@
 # Hi, I’m MHDanish 👋  
 ### Mechanical & Electronics Engineer → Software + IoT Builder
 
-I build **reliable real-world systems**: IoT devices, smart dashboards, payment/kiosk integrations, and scalable backends — engineered for stability, maintainability, and deployment.
+I build **reliable real-world systems**: IoT devices, smart dashboards, payment/kiosk integrations, and amazing frontends — engineered for stability, compatibility, maintainability, and deployment.
 
 <br/>
 
@@ -45,7 +45,7 @@ I build **reliable real-world systems**: IoT devices, smart dashboards, payment/
 
 **What we build / deliver**
 - 🌧️ **IoT warning & monitoring systems** (disaster/alerts, sensor logging, dashboards)
-- 🏨 **Resort websites + booking systems** (demo → production-ready)
+- 🏨 **Resort/Hotel websites + booking systems** (demo → production-ready)
 - 🧾 **Custom ERP / POS / CMS** for SMEs (workflows, reporting, role-based access)
 - 📊 **Admin dashboards** (management views, analytics, operations control)
 - 📷 **CCTV systems & installation**
