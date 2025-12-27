@@ -4,7 +4,7 @@
 <!-- If you upload a banner to: assets/banner.png, uncomment the next line -->
 ![](./assets/banner.jpg)
 
-<img src="./assets/malar-alam-technology-logo.png" alt="Malar Alam Technology" width="220" />
+
 
 # Hi, I’m MHDanish 👋  
 ### Mechanical & Electronics Engineer → Software + IoT Builder
@@ -94,3 +94,4 @@ I build **reliable real-world systems**: IoT devices, smart dashboards, payment/
 - X: https://x.com/MHD4N1SH
 - Instagram: https://www.instagram.com/mhd4n1sh/
 
+<img src="./assets/malar-alam-technology-logo.png" alt="Malar Alam Technology" width="220" />
